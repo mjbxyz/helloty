@@ -1,0 +1,144 @@
+ 
+    
+        .coverpage { 
+            background-color: black;
+            font-family:  'Times New Roman', Times, serif;
+            font-size: 1.5em;
+            text-align: center;
+            color: white;
+	        font-style: italic;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-ser
+        }
+
+        .spankapitapage, #pageone, #pagetwo, #pagethree, #pagefour, #pagefive, #authorpage { 
+            background-color: black;
+            font-family:  'Times New Roman', Times, serif;
+            font-size: 1.5em;
+            text-align: center;
+            color: white;
+	        font-style: italic;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-ser
+        }
+
+        .picture {
+            border-bottom: 2px solid #57b1dc;
+            border-top: 2px solid #57b1dc;
+            border-left: 2px solid #57b1dc;
+            border-right: 2px solid #57b1dc;
+            border-width: 8px;
+            border-radius: 310%;
+            margin: 10%;
+            }
+
+
+        a{
+            color: skyblue;
+            font-size: 2em;
+            text-align: right;
+            
+        }
+
+        strong{ text-align: right;}
+       
+
+
+
+    .lowerone{
+        
+        text-align: left;
+        background-color: purple;   
+        padding: 15px 32px;
+        display: inline-block;
+        font-size: 16px;
+    }
+
+    .lowertwo{
+        text-align: right;
+        background-color: purple;
+        padding: 15px 32px;
+        display: inline-block;
+        font-size: 16px;
+    }
+
+    h1, h2, h3 {
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: normal;
+        text-transform: uppercase;
+        margin-top: 30px;
+        font-size: 2.5em;
+        word-wrap: break-word;
+        
+    }
+
+    p {
+        color: white;
+        font-size: 1.4em;
+        text-align: justify;
+        word-wrap: normal;
+
+    }
+
+            dd{
+                font-size: 2em;
+            }
+
+
+
+            ul{
+                font-size: 1.1em;
+                text-align: left;
+                text-decoration-color: aqua;
+                color: white;
+                
+            }
+
+            body#pageseven { 
+               
+                background: #466368;
+                background: -webkit-linear-gradient(#648880, #293f50);
+                background:    -moz-linear-gradient(#648880, #293f50);
+                background:         linear-gradient(#648880, #293f50);
+                font-size: 2em;
+              
+            }
+
+        .main, .photo {
+                border: .2em solid white;
+                background-blend-mode: screen;
+                text-decoration: underline;
+                align-items: center;
+        }
+
+        .titleperpage{
+            text-align: right;
+            font-style: italic;
+            
+        }
+
+        #container{
+            border: 4px dashed yellow;
+            display: flex;
+            flex-direction: row;
+            
+        }
+
+        .box {
+            color: white
+            font-size: 4em;
+            text-align: center;
+            
+        }
+
+        ol{
+            font-size: 1.5em;
+            text-align: center;
+            color: white;
+            text-align: justify;
+            flex-direction: row;
+            list-style-type: none;
+        }
+    
+    
+
+       

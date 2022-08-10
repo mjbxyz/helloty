@@ -1,0 +1,6 @@
+coverpage:
+5 boxes that link to other pages
+picture on cover page
+contact us link that goes to my email address 
+border around cover picture 
+colored background 
