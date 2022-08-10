@@ -11,7 +11,7 @@ body {
     overflow: hidden;
     display: grid;
     place-items: center;
-    font-family: 'Cinzel', serif;
+    font-family: 'Dancing Script', cursive;
 }
 
 .wrapper {
