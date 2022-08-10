@@ -8,6 +8,12 @@
 body {
     background-color: aquamarine;
 }
+
+main {
+    display: grid;
+    place-items: center;
+}
+
 h1 {
     color: blueviolet;
 }
