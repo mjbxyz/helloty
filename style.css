@@ -12,6 +12,7 @@ body {
     display: grid;
     place-items: center;
     font-family: 'Dancing Script', cursive;
+    font-size: xxx-large;
 }
 
 .wrapper {
