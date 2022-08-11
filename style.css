@@ -37,6 +37,15 @@ img {
 }
 
 @media screen and (max-width: 600px) {
+    img {
+        min-width: 1200;
+        max-height: 70%;
+        width: auto;
+    }
+}
+
+
+@media screen and (max-width: 600px) {
     body {
         padding: 15% 0;
     }
