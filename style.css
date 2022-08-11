@@ -25,7 +25,7 @@ h1 {
 }
 
 a {
-    max-height: 50%;
+    max-height: 50vh;
     width: auto;
     border-radius: 50%;
 }
@@ -41,7 +41,7 @@ img {
         padding: 15% 0;
     }
     img {
-        max-width: 80%;
+        max-width: 80vw;
         height: auto;
     }
 }
