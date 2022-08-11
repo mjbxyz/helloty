@@ -5,9 +5,8 @@
 }
 
 body {
-/*     height: 100vh;
-    width: 100vw; */
-    padding: 10% 0;
+    height: 100vh;
+    width: 100vw;
     background-color: aquamarine;
     overflow: hidden;
     display: grid;
@@ -26,8 +25,8 @@ h1 {
 }
 
 a {
-    max-width:50%;
-    height: auto;
+    max-height: 50%;
+    width: auto;
     border-radius: 50%;
 }
 
@@ -36,15 +35,6 @@ img {
     width: 100%;
     border-radius: 50%;
 }
-
-@media screen and (max-width: 600px) {
-    img {
-        min-width: 1200;
-        max-height: 60%;
-        width: auto;
-    }
-}
-
 
 @media screen and (max-width: 600px) {
     body {
